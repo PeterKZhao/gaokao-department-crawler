@@ -1,22 +1,58 @@
 {
-  "update_time": "2026-04-27 16:50:55",
+  "update_time": "2026-05-01 08:43:06",
   "school_id": "3437",
   "school_name": "云南理工职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3437.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:59",
-  "md5": "d7c615503b0245c2c141d706417061ab",
-  "department_count": 5,
-  "special_count": 24,
+  "time": "2026-05-01 14:45:47",
+  "md5": "0bfb8aa1067cd815f311279654833cad",
+  "department_count": 9,
+  "special_count": 37,
   "data": [
     {
-      "department_name": "建筑工程学院",
-      "special_num": 8,
+      "department_name": "现代服务学院",
+      "special_num": 7,
       "special": [
         {
-          "special_name": "光伏工程技术",
+          "special_name": "休闲体育",
           "level": "专科",
-          "school_special_id": "1860996"
+          "school_special_id": "2013427"
         },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "2156180"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1469120"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2013428"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2171165"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1267522"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "1469121"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 9,
+      "special": [
         {
           "special_name": "工程测量技术",
           "level": "专科",
@@ -43,9 +79,61 @@
           "school_special_id": "2013426"
         },
         {
-          "special_name": "无人机应用技术",
+          "special_name": "机电一体化技术",
           "level": "专科",
-          "school_special_id": "2156182"
+          "school_special_id": "2167471"
+        },
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1469117"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "1267520"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "2171164"
+        }
+      ]
+    },
+    {
+      "department_name": "新能源汽车产业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1469118"
+        },
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2165720"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "1860998"
+        }
+      ]
+    },
+    {
+      "department_name": "新能源工程技术产业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "光伏工程技术",
+          "level": "专科",
+          "school_special_id": "1860996"
+        },
+        {
+          "special_name": "电力储能应用技术",
+          "level": "专科",
+          "school_special_id": "2167355"
         },
         {
           "special_name": "风力发电工程技术",
@@ -55,59 +143,60 @@
       ]
     },
     {
-      "department_name": "管理学院",
-      "special_num": 7,
+      "department_name": "烹饪产业学院",
+      "special_num": 1,
       "special": [
         {
-          "special_name": "休闲体育",
+          "special_name": "烹饪工艺与营养",
           "level": "专科",
-          "school_special_id": "2013427"
-        },
-        {
-          "special_name": "大数据与财务管理",
-          "level": "专科",
-          "school_special_id": "1469120"
-        },
-        {
-          "special_name": "婴幼儿托育服务与管理",
-          "level": "专科",
-          "school_special_id": "1469119"
-        },
-        {
-          "special_name": "学前教育",
-          "level": "专科",
-          "school_special_id": "2013428"
-        },
-        {
-          "special_name": "市场营销",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "烹调工艺与营养",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "运动训练",
-          "level": "专科",
-          "school_special_id": "1469121"
+          "school_special_id": "2013430"
         }
       ]
     },
     {
-      "department_name": "大数据学院",
-      "special_num": 3,
+      "department_name": "泛翰低空经济产业学院",
+      "special_num": 1,
       "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2156182"
+        }
+      ]
+    },
+    {
+      "department_name": "数智科技学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2171162"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2156179"
+        },
         {
           "special_name": "大数据技术",
           "level": "专科",
           "school_special_id": "1469116"
         },
         {
-          "special_name": "移动应用开发",
+          "special_name": "工业机器人技术",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2156183"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "2171163"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2156178"
         },
         {
           "special_name": "软件技术",
@@ -117,7 +206,7 @@
       ]
     },
     {
-      "department_name": "轨道交通学院",
+      "department_name": "轨道交通产业学院",
       "special_num": 3,
       "special": [
         {
@@ -126,9 +215,9 @@
           "school_special_id": "1031471"
         },
         {
-          "special_name": "城市轨道交通通信信号技术",
+          "special_name": "城市轨道交通运营管理",
           "level": "专科",
-          "school_special_id": "1860999"
+          "school_special_id": "1031472"
         },
         {
           "special_name": "城市轨道车辆应用技术",
@@ -138,23 +227,23 @@
       ]
     },
     {
-      "department_name": "新能源汽车学院",
+      "department_name": "天度数字商务产业学院",
       "special_num": 3,
       "special": [
         {
-          "special_name": "新能源汽车技术",
+          "special_name": "供应链运营",
           "level": "专科",
-          "school_special_id": "1469118"
+          "school_special_id": "2167505"
         },
         {
-          "special_name": "智能网联汽车技术",
+          "special_name": "数字媒体艺术设计",
           "level": "专科",
-          "school_special_id": "1860998"
+          "school_special_id": "2013429"
         },
         {
-          "special_name": "汽车智能技术",
+          "special_name": "跨境电子商务",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2013425"
         }
       ]
     }

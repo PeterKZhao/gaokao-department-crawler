@@ -1,21 +1,21 @@
 {
-  "update_time": "2026-04-27 16:32:56",
+  "update_time": "2026-05-01 08:25:54",
   "school_id": "1449",
   "school_name": "苏州农业职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1449.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:56",
-  "md5": "7358d6294af062190659a4c975754762",
+  "time": "2026-04-28 16:45:51",
+  "md5": "14cd73aecaf263de9f442f93367c49ed",
   "department_count": 7,
-  "special_count": 41,
+  "special_count": 40,
   "data": [
     {
       "department_name": "园艺科技学院",
-      "special_num": 4,
+      "special_num": 6,
       "special": [
         {
-          "special_name": "休闲农业",
+          "special_name": "休闲农业经营与管理",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1789493"
         },
         {
           "special_name": "园艺技术",
@@ -23,25 +23,35 @@
           "school_special_id": "124288"
         },
         {
+          "special_name": "植物保护与检疫技术",
+          "level": "专科",
+          "school_special_id": "2169136"
+        },
+        {
           "special_name": "现代农业技术",
           "level": "专科",
           "school_special_id": "36353"
         },
         {
-          "special_name": "茶艺与茶叶营销",
+          "special_name": "花卉生产与花艺",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2158269"
+        },
+        {
+          "special_name": "茶叶生产与加工技术",
+          "level": "专科",
+          "school_special_id": "1800132"
         }
       ]
     },
     {
       "department_name": "园林工程学院",
-      "special_num": 7,
+      "special_num": 8,
       "special": [
         {
-          "special_name": "风景园林",
-          "level": "本科",
-          "school_special_id": "0"
+          "special_name": "古建筑工程技术",
+          "level": "专科",
+          "school_special_id": "2159119"
         },
         {
           "special_name": "园林工程技术",
@@ -51,17 +61,22 @@
         {
           "special_name": "园林技术",
           "level": "专科",
-          "school_special_id": "1789494"
+          "school_special_id": "36337"
         },
         {
-          "special_name": "建筑室内设计",
+          "special_name": "室内艺术设计",
           "level": "专科",
-          "school_special_id": "36335"
+          "school_special_id": "2171153"
         },
         {
           "special_name": "数字媒体艺术设计",
           "level": "专科",
           "school_special_id": "36333"
+        },
+        {
+          "special_name": "林草生态保护与修复",
+          "level": "专科",
+          "school_special_id": "1800133"
         },
         {
           "special_name": "环境艺术设计",
@@ -77,12 +92,12 @@
     },
     {
       "department_name": "经济管理学院",
-      "special_num": 8,
+      "special_num": 7,
       "special": [
         {
           "special_name": "农村新型经济组织管理",
           "level": "专科",
-          "school_special_id": "1789510"
+          "school_special_id": "1745166"
         },
         {
           "special_name": "大数据与会计",
@@ -90,14 +105,9 @@
           "school_special_id": "1745165"
         },
         {
-          "special_name": "大数据与财务管理",
-          "level": "专科",
-          "school_special_id": "1789514"
-        },
-        {
           "special_name": "旅游管理",
           "level": "专科",
-          "school_special_id": "1789505"
+          "school_special_id": "36339"
         },
         {
           "special_name": "现代物业管理",
@@ -112,12 +122,12 @@
         {
           "special_name": "跨境电子商务",
           "level": "专科",
-          "school_special_id": "1789511"
+          "school_special_id": "1362941"
         },
         {
           "special_name": "连锁经营与管理",
           "level": "专科",
-          "school_special_id": "1789509"
+          "school_special_id": "1711989"
         }
       ]
     },
@@ -125,6 +135,11 @@
       "department_name": "智慧农业学院",
       "special_num": 8,
       "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2167699"
+        },
         {
           "special_name": "人工智能技术应用",
           "level": "专科",
@@ -138,7 +153,7 @@
         {
           "special_name": "机电一体化技术",
           "level": "专科",
-          "school_special_id": "1789500"
+          "school_special_id": "36346"
         },
         {
           "special_name": "物联网应用技术",
@@ -153,17 +168,12 @@
         {
           "special_name": "计算机应用技术",
           "level": "专科",
-          "school_special_id": "1789499"
+          "school_special_id": "36344"
         },
         {
           "special_name": "计算机网络技术",
           "level": "专科",
           "school_special_id": "36343"
-        },
-        {
-          "special_name": "设施农业与装备",
-          "level": "专科",
-          "school_special_id": "1789501"
         }
       ]
     },
@@ -172,9 +182,9 @@
       "special_num": 5,
       "special": [
         {
-          "special_name": "药品生产技术",
+          "special_name": "农产品加工与质量检测",
           "level": "专科",
-          "school_special_id": "1789496"
+          "school_special_id": "2170111"
         },
         {
           "special_name": "药品生物技术",
@@ -189,18 +199,18 @@
         {
           "special_name": "食品检验检测技术",
           "level": "专科",
-          "school_special_id": "1789516"
+          "school_special_id": "1711990"
         },
         {
           "special_name": "食品药品监督管理",
           "level": "专科",
-          "school_special_id": "1789497"
+          "school_special_id": "1376718"
         }
       ]
     },
     {
       "department_name": "环境工程学院",
-      "special_num": 4,
+      "special_num": 3,
       "special": [
         {
           "special_name": "环境工程技术",
@@ -208,25 +218,20 @@
           "school_special_id": "36352"
         },
         {
-          "special_name": "环境监测与控制技术",
+          "special_name": "环境监测技术",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1533100"
         },
         {
-          "special_name": "生态农业技术",
+          "special_name": "生态环境修复技术",
           "level": "专科",
-          "school_special_id": "36354"
-        },
-        {
-          "special_name": "生态环境修复",
-          "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1658940"
         }
       ]
     },
     {
       "department_name": "国际教育学院",
-      "special_num": 5,
+      "special_num": 3,
       "special": [
         {
           "special_name": "会展策划与管理",
@@ -239,19 +244,9 @@
           "school_special_id": "36350"
         },
         {
-          "special_name": "商务英语",
-          "level": "专科",
-          "school_special_id": "124287"
-        },
-        {
           "special_name": "法律文秘",
           "level": "专科",
-          "school_special_id": "1789503"
-        },
-        {
-          "special_name": "空中乘务",
-          "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "124293"
         }
       ]
     }
